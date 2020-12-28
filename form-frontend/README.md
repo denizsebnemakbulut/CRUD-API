@@ -1,4 +1,4 @@
-# project-vue
+# form-frontend
 
 ## Project setup
 ```
